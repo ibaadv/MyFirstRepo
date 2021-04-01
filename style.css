@@ -1,0 +1,12 @@
+h1 {
+    color: black;
+    font-family: cursive;
+}
+
+h1:hover {
+    width: 400px;
+    background-color: aqua;
+    letter-spacing: 5px;
+    color: blue;
+    transition: all 0.5s;
+}
